@@ -7,3 +7,4 @@ The VScode devcontainer is provided to guarantee consistent environment with all
 
 To inspect Marp deck source code check `marp_demo.md`.
 The deck was also exported using Marp extension for VSCode as pdf `marp_demo.pdf` and HTML `index.html`.
+The HTML is also available on [https://ankudinov.github.io/yet-another-marp-deck/](https://ankudinov.github.io/yet-another-marp-deck/)
